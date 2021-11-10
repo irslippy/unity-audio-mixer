@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 85de17974741e264fb43f3ba8772e967
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dayTime: {fileID: 24500006, guid: d9302f3c03d7d864f95159675ff1ad30, type: 2}
+  - nightTime: {fileID: 4498481173313728921, guid: d9302f3c03d7d864f95159675ff1ad30, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
